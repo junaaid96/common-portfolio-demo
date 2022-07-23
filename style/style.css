@@ -1,0 +1,27 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Gentium+Book+Plus&family=Satisfy&display=swap');
+
+body {
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+h1 span {
+    font-family: 'Satisfy', cursive;
+}
+
+.top-banner {
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.middle-banner {
+    background-image: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.experience-area {
+    background-image: url(../images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
