@@ -1,3 +1,3 @@
 # portfolio
 
-common dmeo portfolio using html and css.
+common demo portfolio using html and css.
