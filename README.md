@@ -1,3 +1,3 @@
 # portfolio
 
-Website: https://junaaid96.github.io/portfolio/
+common dmeo portfolio using html and css.
